@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches of Sr. Benjamin Rudyer in the high Court of Parliament.</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92070</idno>
+            <idno type="STC">Wing R2200</idno>
+            <idno type="STC">Thomason E196_2</idno>
+            <idno type="STC">Thomason E196_3</idno>
+            <idno type="STC">Thomason E196_4</idno>
+            <idno type="STC">ESTC R7364</idno>
+            <idno type="EEBO-CITATION">99873120</idno>
+            <idno type="PROQUEST">99873120</idno>
+            <idno type="VID">157442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157442)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[2]; 35:E196[3]; 35:E196[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches of Sr. Benjamin Rudyer in the high Court of Parliament.</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>[2], 12 [i.e. 19] [1]p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Walkly,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 19 has been misnumbered 12.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Composed of three speeches. The second and third speeches, Thomason E.196[3] and Thomason E.196[4], both bear the caption title: "Another speech of Sr. Benjamin Rudyer in the High Court of Parliament".</note>
+                  <note>Annotation on Thomason copy: "the first was spoken. novemb. 7th 1640"; the second 1 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="15" facs="tcp:157442:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <head>ANOTHER SPEECH OF S<hi rend="sup">r</hi>. BENIAMIN RVDYER in the High Court of PARLIAMENT.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Do verily beleeve, that there are many of the Clergy in our Church, who do think the ſim<g ref="char:EOLhyphen"/>plicity of the Goſpel, too meane a vocation for them to ſerve-in: They muſt have a ſpeſcious, pompous, ſumptuous, Reli<g ref="char:EOLhyphen"/>gion, with Additionalls of Temporall great<g ref="char:EOLhyphen"/>neſſe, Authority, Negotiation: Notwith<g ref="char:EOLhyphen"/>ſtanding, they all know better then I, what <hi>Fathers,</hi> Schoolemen, Councells are againſt their mixing themſelves in ſecular affaires.</p>
+            <p>This Romane Ambition will at length bring in the Romane Religion, and at laſt a haughty Inſolence even againſt ſupreame
+<pb n="16" facs="tcp:157442:2"/>
+               <!-- PDF PAGE 55 -->power it ſelfe, if it be not timely and wiſely prevented.</p>
+            <p>They have amongſt them an Apothegm of their own making, which is, <hi>No Miter, No Scepter;</hi> when we know by deare experience, that if the Miter be once in danger, they care not to throw the Scepter after, to confound the whole Kingdome for their Intereſt.</p>
+            <p>And Hyſtories will tell us, that whenſoe<g ref="char:EOLhyphen"/>ver the Cleargy went high, Monarchy ſtill went lower: If they could not make the Mo<g ref="char:EOLhyphen"/>narch the head of their owne Faction, they would be ſure to make him leſſe: witneſſe one example for all, The Popes working the Emperor out of <hi>Jtaly.</hi>
+            </p>
+            <p>Some of ours, aſſoone as they are Biſhops, <hi>adepto fine, ceſſant Motus,</hi> They will Preach no longer, their office then is to governe, But in my opinion they governe worſe then they Preach, though they Preach not at all; for wee ſee to what paſſe their government hath brought us.</p>
+            <p>In conformity to themſelves, They ſilence others alſo, though <hi>Hierom</hi> in one of his Epi<g ref="char:EOLhyphen"/>ſtles ſaith, that even a Biſhop, let him be of never ſo blameleſſe a life, yet he doth more hurt by his licence, then he can do good by his example.</p>
+            <p>Mr. <hi>Speaker,</hi> It now behooves us, to re<g ref="char:EOLhyphen"/>ſtraine
+<pb n="17" facs="tcp:157442:2"/>
+               <!-- PDF PAGE 55 -->the Biſhops to the duties of their Fun<g ref="char:EOLhyphen"/>ction, as they may never-more hancker-after heterogeneous extravagant employments: Not be ſo abſolute, ſo ſingle and ſolitary in Actions of Moment, as Excommunication, Abſolution, Ordination, and the like: but to joyne ſome of the Miniſtry with them, and further to regulate them according to the u<g ref="char:EOLhyphen"/>ſage of Ancient Churches, in the beſt times, that by a well-temper'd Government, they may not have power hereafter, to corrupt the Church, to undoe the Kingdom.</p>
+            <p>When they are thus circumſcrib'd, and the Publique ſecur'd from their Eruptions, then ſhall not I grudge them a liberall plentifull ſubſiſtence elſe I am ſure, they can never be given to Hoſpitality.</p>
+            <p>Although the calling of the Clergy bee all glorious within, yet if they have not a large conſiderable, outward ſupport, they cannot be freed from vulgar Contempt.</p>
+            <p>It will alwaies be fit, that the flouriſhing of the Church, ſhould hold proportion with the flouriſhing of the Common-wealth wherein it is. If we dwell in Houſes of Cedar, whie ſhould they dwell in skins? And I hope I ſhall never ſee a good Biſhop left worſe then a Parſon without a Gleab.</p>
+            <p>Certainelie Sir, the ſuperintendencie of e<g ref="char:EOLhyphen"/>minent Men, Biſhops over divers Churches,
+<pb n="19" facs="tcp:157442:3"/>
+               <!-- PDF PAGE 56 -->is the moſt Primitive, the moſt ſpreading, the moſt laſting Government of the Church. Wherefore whileſt we are earneſt to take away Innovations, let us beware we bring not in the greateſt Innovation that ever was in <hi>England.</hi>
+            </p>
+            <p>I doe very well know, what very many doe very fervently deſire. But let us well bethink our ſelves whether a popular Democraticall Government of the Church (though fit for other places) wilbe either ſutable or accep<g ref="char:EOLhyphen"/>table, to a Regall, Monarchicall Government of the State.</p>
+            <p>Every man can ſay (It is ſo common and knowe a Truth) that ſodain and great changes both in naturall and Politique bodies have dangerous operations: and give me leave to ſay, that we cannot preſently ſee to the end of ſuch a conſequence, eſpecially in ſo great a Kingdome as this, and where Epiſcopacie is ſo wrap'd and involv'd in the Laws of it.</p>
+            <p>Wherfore Mr. <hi>Speaker,</hi> my humble Motion is, that we may puniſh the preſent offenders, reduce and preſerve the Calling for better men hereafter. Let us remember with freſh thankfullneſſe to <hi>God,</hi> thoſe glorious Martyr-Biſhops who were burn'd for our Religion, in the times of Popery, who by their learn<g ref="char:EOLhyphen"/>ing, zeale, and conſtancie, upheld and con<g ref="char:EOLhyphen"/>veyd it down to us.</p>
+            <pb n="12" facs="tcp:157442:3"/>
+            <!-- PDF PAGE 56 -->
+            <p>We have ſome good Biſhops ſtill, who doe Preach every Lords Day, and are therefore worthy of double Honour; they have ſuffer'd enough already in the Diſeaſe: I ſhalbe ſorry wee ſhould make them ſuffer more in the Remedy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
